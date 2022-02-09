@@ -21,3 +21,7 @@
 6- O que é branch?
 
  ramificação de um repósitorio.
+
+7- O que é pull request?
+
+  Solicitação de atualização do código.
