@@ -5,3 +5,7 @@
 2- Quais linguagens posso utilizar trabalhando com o GITHUB?
  
  todas as linguagens.
+
+3- O que é um repósitorio?
+
+ A pasta onde será armazenados os arquivos do progeto.
