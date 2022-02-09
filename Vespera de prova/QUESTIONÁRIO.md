@@ -9,3 +9,7 @@
 3- O que é um repósitorio?
 
  A pasta onde será armazenados os arquivos do progeto.
+
+4- Os códigos que coloco no GITHUB estarão senpre disponíveis a todos os usuários da Web?
+
+  Não só se o código for gratuito. 
