@@ -13,3 +13,7 @@
 4- Os códigos que coloco no GITHUB estarão senpre disponíveis a todos os usuários da Web?
 
   Não só se o código for gratuito. 
+
+5- O que é VCS?
+
+ Software de Comtrole de Versão.
