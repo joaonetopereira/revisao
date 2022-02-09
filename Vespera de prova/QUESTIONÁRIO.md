@@ -25,3 +25,7 @@
 7- O que é pull request?
 
   Solicitação de atualização do código.
+
+8- O que é fork?
+
+ Copiar um repósitorio de um usuário para o seu.
