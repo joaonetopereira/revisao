@@ -17,3 +17,7 @@
 5- O que é VCS?
 
  Software de Comtrole de Versão.
+
+6- O que é branch?
+
+ ramificação de um repósitorio.
